@@ -1,6 +1,13 @@
 pandas
 numpy
 langchain
-langchain_community
+langchain-community
 streamlit
 python-dotenv
+fastapi
+uvicorn
+requests
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
